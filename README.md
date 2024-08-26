@@ -64,13 +64,13 @@ Chart type: Matrix card
 
 ## DAX function used:
 1.	For total sales: Used Sum function
-Formula used: Total sales = sum(‘blinkit store grocery data’[sales])
+  - Formula used: Total sales = sum(‘blinkit store grocery data’[sales])
 2.	For Average sales: Used Average function
-Formula used: Average sales = Average(‘blinkit store grocery data’[sales])
+  - Formula used: Average sales = Average(‘blinkit store grocery data’[sales])
 3.	Number of Items: Used Countrows function
-Formula use: Number of Items = countrows(blinkit store grocery data)
+  - Formula use: Number of Items = countrows(blinkit store grocery data)
 4.	Average rating: used Average function
-Formula used: Average rating = Average(‘blinkit store grocery data’[Rating])
+  - Formula used: Average rating = Average(‘blinkit store grocery data’[Rating])
 
 # Key Insights:
 ## Sales Analysis:
