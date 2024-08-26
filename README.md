@@ -17,13 +17,13 @@ The dataset used in this project is derived from BlinkIT’s grocery sales recor
 # Business requirements
 To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualization in Power BI
 
-##KPI’s Requirements
+## KPI’s Requirements
 1. Total sales: The overall revenue generated from all item sold
 2. Average sales: The average revenue per sale
 3. Number of Items: The total count of different item sold
 4. Average rating: The average customer rating for item sold
 
-##Charts requirements
+## Charts requirements
 1.	Total sales by fat content: 
 Objective: Analyze the impact of fat content on total sales
 Additional KPI metrics: Assess how other KPIs (Average sales, Number of items, Average rating) vary with fat content.
@@ -95,6 +95,6 @@ Establishment Year: Outlets were established between 2011 and 2022, with a conce
 This analysis can guide the company in optimizing product offerings, improving outlet performance, and enhancing customer satisfaction.
 
 # Overview of the dashboard
-Here is the overview of the dashboard, for the actual interacting dashboard, check the blinkit dashboard file.
+Here is the overview of the dashboard, for the actual interacting dashboard, check the [Blinkit dashboard](https://github.com/Analyze-with-Aniket/blinkit_analysis_PowerBI/blob/main/Blinkit%20dashboard.pbix) file.
 ![image](https://github.com/user-attachments/assets/6406293d-0cd2-4168-85e3-4ddd6a0ce16a)
 
